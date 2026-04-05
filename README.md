@@ -11,7 +11,7 @@ copy the .config, .themes and Wallpapers to $HOME. you also win new wallpapers:P
 this rice needs some packages to work:
 
 ```
-labwc, waybar, (pipewire/pulseaudio), fastfetch/icefetch/hyfetch, libnotify-bin/notify-send, swaync, kitty, swaybg
+labwc, waybar, (pipewire/pulseaudio), fastfetch/icefetch/hyfetch, libnotify-bin/notify-send, swaync, kitty, swaybg, rofi, slurp, grim, swappy, opera-gx 
 ```
 
 and their dependecies.

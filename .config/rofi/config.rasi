@@ -1,0 +1,9 @@
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+//@theme "/usr/share/rofi/themes/Arc.rasi"
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+configuration {
+font: "Quicksand 12";
+}
+@theme "~/.config/rofi/larper-ai-generated.rasi"
