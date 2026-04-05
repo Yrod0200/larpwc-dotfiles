@@ -1,0 +1,11 @@
+window.*.title.bg.color: #141618
+window.*.label.text.color: #fafafa
+window.*.button.unpressed.image.color: #fafafa
+window.*.border.color: #fafafa
+
+
+
+menu.title.bg.color: #141618
+menu.items.bg.color: #141618
+menu.items.text.color: #fafafa
+

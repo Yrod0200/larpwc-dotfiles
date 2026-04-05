@@ -1,0 +1,57 @@
+@define-color bg-color #141618;
+@define-color text-color #fafafa;
+@define-color border-color #fafafa;
+
+* {
+    font-family: "FiraCode Nerd Font Mono", "FiraCode Nerd Font", "FiraCode NF", monospace;
+}
+
+label {
+    font-family: "FiraCode Nerd Font Mono", "FiraCode Nerd Font", "FiraCode NF", monospace;
+}
+
+.control-center {
+    background: @bg-color;
+    border-left: 2px solid @border-color;
+    color: @text-color;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+.notification {
+    background: @bg-color;
+    border: 1px solid @border-color;
+    border-radius: 0px;
+    color: @text-color;
+    padding: 5px;
+    margin: 5px;
+}
+
+.notification-content .summary {
+    color: @text-color;
+    font-weight: bold;
+}
+
+.notification-content .body {
+    color: @text-color;
+    opacity: 0.9;
+}
+
+.control-center-title {
+    color: @text-color;
+    font-size: 1.2rem;
+}
+
+.widget-title button {
+    background: @border-color;
+    color: @bg-color;
+    border: none;
+    border-radius: 0px;
+    padding: 5px 10px;
+}
+
+.notification-row {
+    outline: none;
+    margin: 0px;
+    padding: 0px;
+}

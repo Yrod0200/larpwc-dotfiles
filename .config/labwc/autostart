@@ -1,0 +1,3 @@
+waybar &
+swaybg -i ~/Wallpapers/pixação.jpg  &
+swaync &
